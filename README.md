@@ -7,5 +7,5 @@ Proof of concept. UIX to represent the life of a customer in the company, from h
 ## Dynamic Thumbnail 2
 ![Thumbnail 2](https://raw.githubusercontent.com/haldrix/vuetify-hierarchical-vue/master/dynamic_thumbnails2.gif)
 
-## Dynamic Thumbnail 1
+## hierarchical view (Customer life cycle)
 ![Hierarchical view](https://raw.githubusercontent.com/haldrix/vuetify-hierarchical-vue/master/hierarchical-view2.gif)
